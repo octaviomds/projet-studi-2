@@ -3,3 +3,7 @@ LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 UTISATION DE FIREBASE POUR APPLICATION:
 ![Capture d’écran 2024-09-21 à 22 57 11](https://github.com/user-attachments/assets/ee3beb13-2509-41fc-ae6e-513469e09171)
 ![Capture d’écran 2024-09-21 à 22 56 51](https://github.com/user-attachments/assets/3e757c25-44a5-49da-81ce-307fa54fb4c5)
+
+UTILISATION DE TRELLO:
+
+https://trello.com/home
